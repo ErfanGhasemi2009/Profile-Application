@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">آموزش ویوهای اندروید</string>
+    <string name="app_name">پروفایل</string>
     <string name="editProfile">ویرایش پروفایل</string>
     <string name="done">تایید</string>
     <string name="viewWebsite">مشاهده وب سایت</string>
